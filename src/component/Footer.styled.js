@@ -25,6 +25,7 @@ export const EndDetails=styled.div`
 `
 export const Logo=styled.div`
     justify-content: center;
+    cursor: pointer;
 `
 
 export const FooterContent=styled.div`
